@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="SolutionDNA.cs" />
+    <Compile Remove="beckietalia_37841_5857114_DNA6.cs" />
+  </ItemGroup>
+</Project>

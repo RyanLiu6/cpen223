@@ -1,0 +1,86 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Program.cs" />
+    <Compile Remove="ahmedtanvir_77012_5560798_Program-2 %28copy%29.cs" />
+    <Compile Remove="ahmedtanvir_77012_5560798_Program-2.cs" />
+    <Compile Remove="alainrebecca_122668_5555154_Lab3.cs" />
+    <Compile Remove="asaokanozomi_73576_5553811_Program-2.cs" />
+    <Compile Remove="beckietalia_37841_5553317_Lab3TaliaBeckieDone.cs" />
+    <Compile Remove="behrouzianmona_80182_5555398_Lab3MonaBehrouzian.cs" />
+    <Compile Remove="bhardwajsamarth_34093_5559764_Program-2.cs" />
+    <Compile Remove="bonnorgenna_342433_5559426_Program-1.cs" />
+    <Compile Remove="cervantespatrick_106150_5553856_Program-2.cs" />
+    <Compile Remove="chaisirinonpattaramet_111141_5557325_Program-4.cs" />
+    <Compile Remove="changsam_86184_5559498_samChang_Lab3.cs" />
+    <Compile Remove="chenyudan_29129_5555188_Yudan_Chen_74330309_Lab_3.cs" />
+    <Compile Remove="chitkarashikhar_73034_5561492_LAB4.cs" />
+    <Compile Remove="chiuvicky_39319_5551145_lab3.cs" />
+    <Compile Remove="chuirochelle_100096_5556776_Lab3.cs" />
+    <Compile Remove="dasilvaalisa_104760_5554950_lab_3.cs" />
+    <Compile Remove="dehoogelija_192415_5552384_Program-2.cs" />
+    <Compile Remove="egilmezipek_72450_5555116_Program-4.cs" />
+    <Compile Remove="gonzalezandrea_96692_5556188_Program.cs" />
+    <Compile Remove="gosnellnatalia_126139_5554736_Lab3.cs" />
+    <Compile Remove="guobrian_78827_5556999_Program-2.cs" />
+    <Compile Remove="guptapooja_38805_5560242_Program.cs" />
+    <Compile Remove="guptasaum_111117_5552409_Lab3.cs" />
+    <Compile Remove="hetlandolivia_88408_5554869_Program-4.cs" />
+    <Compile Remove="hoptioncannedward_84631_5552689_Lab3-good.cs" />
+    <Compile Remove="hoskerharry_36759_5554833_Program-1.cs" />
+    <Compile Remove="huangjiaxing_141702_5554756_Lab 3.cs" />
+    <Compile Remove="hwangkaren_227212_5552796_Lab3.cs" />
+    <Compile Remove="jungjessica_110806_5554746_lab3.cs" />
+    <Compile Remove="kapoorsukrit_54991_5558534_Program-2.cs" />
+    <Compile Remove="kimtae_303796_5552095_Program-3.cs" />
+    <Compile Remove="klassenmattathias_164461_5554978_Lab3MattathiasKlassen11403524.cs" />
+    <Compile Remove="lacroixkalen_78337_5558829_KalenLab3.cs" />
+    <Compile Remove="leeadrian_192353_5553310_Program-1.cs" />
+    <Compile Remove="leejasmine_86966_5559189_CPEN 223 Lab 3.cs" />
+    <Compile Remove="leesheresa_84584_5560760_AssignmentLab3.cs" />
+    <Compile Remove="levinejade_16066_5551105_Program-2.cs" />
+    <Compile Remove="limuyang_95468_5557707_Muyangli_lab 3.cs" />
+    <Compile Remove="lingary_106947_5558007_Lab3.cs" />
+    <Compile Remove="liuansis_168154_5551177_ansisLiu_57838500_Lab03_Sec101_CPEN223-1.cs" />
+    <Compile Remove="liujackie_76833_5554222_Lab3-2.cs" />
+    <Compile Remove="lockshealie_58388_5557517_Lab3.cs" />
+    <Compile Remove="macdonaldalexandra_211521_5558207_Lab3.cs" />
+    <Compile Remove="mackaydavid_79838_5552382_Program-2.cs" />
+    <Compile Remove="mahmoudianatoosa_181150_5560882_Lab3.cs" />
+    <Compile Remove="mcgeoughkaylee_23536_5555390_Lab3.cs" />
+    <Compile Remove="mcnaughtongavin_78400_5557633_Program-3.cs" />
+    <Compile Remove="mengtyler_110491_5558193_Program.cs" />
+    <Compile Remove="morrisonkyle_52479_5555115_Program-2.cs" />
+    <Compile Remove="mosshaley_100026_5559938_Program.cs" />
+    <Compile Remove="mussalialberto_101312_5551377_Program-5.cs" />
+    <Compile Remove="niehchiyao_110787_5553936_Program-3.cs" />
+    <Compile Remove="powaramarpreet_42968_5553005_Program-2.cs" />
+    <Compile Remove="quangrace_77937_5560527_Lab3.cs" />
+    <Compile Remove="rajatanya_149005_5551251_Tanya Raja _Lab3.cs" />
+    <Compile Remove="reidemily_79983_5543903_Program-5.cs" />
+    <Compile Remove="satrameriem_192427_5557640_final program lab 3.cs" />
+    <Compile Remove="sacayananardin_14160_5554789_ardin_sacayanan_Lab3-1.cs" />
+    <Compile Remove="shangstacy_89103_5551764_Program-1.cs" />
+    <Compile Remove="sidhupuneet_78854_5554790_Lab3Program.cs" />
+    <Compile Remove="sitolayaditi_72066_5559715_lab 3.cs" />
+    <Compile Remove="srimoklaoraya_16215_5554043_Program-3.cs" />
+    <Compile Remove="storoschukgavin_6804_5554856_Program-1.cs" />
+    <Compile Remove="sunsitian_160523_5552096_lab3-1.cs" />
+    <Compile Remove="sunyudong_89863_5551503_Program-3.cs" />
+    <Compile Remove="tanggeorge_150312_5559486_Lab 3-1.cs" />
+    <Compile Remove="toonejessica_69697_5558352_Program-3.cs" />
+    <Compile Remove="tranjessica_111055_5554233_ProbablePrimesSubmit.cs" />
+    <Compile Remove="tsangjennifer_84161_5555315_Program-2.cs" />
+    <Compile Remove="wangdajun_174806_5558208_lab3.cs" />
+    <Compile Remove="wongwalter_51010_5560402_HAND THIS IN.cs" />
+    <Compile Remove="yansheena_112390_5551913_Program-4.cs" />
+    <Compile Remove="wutanya_107731_5560689_CPEN 223 Lab 3.cs" />
+    <Compile Remove="yangai_192245_5555108_lab3.cs" />
+    <Compile Remove="yuenjoaquintaia_53304_5559226_lab3-2.cs" />
+  </ItemGroup>
+</Project>
