@@ -44,7 +44,7 @@ namespace SolarSystemSimulation
                      * 3. duration: duration of simulation (in terms of how many intervals)
                      */
                     bool check;
-                    string error = "";
+                    string error;
                     int n, dt, duration, iterations;
 
                     do

@@ -50,7 +50,6 @@ namespace SolarSystemSimulation
             // Second: Stop simulation if simulation has reached the end
             if (simulationTime >= duration)
             {
-                // TODO: Stop the timer and other things
                 timer.Stop();
                 return;
             }
