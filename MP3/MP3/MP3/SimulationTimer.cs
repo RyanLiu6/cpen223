@@ -43,19 +43,15 @@ namespace SolarSystemSimulation
         private void UpdatePlanetsAndSimulationTime(Object source, System.Timers.ElapsedEventArgs e)
         {
             //Hint: you can implement this method without using "source" or "e" in the method itself.
-
-            // First: Update simulation time
-            simulationTime += simulationTimeInterval;
-
-            // Second: Stop simulation if simulation has reached the end
-            if (simulationTime >= duration)
+            if (simulationTime < duration - simulationTimeInterval)
+            {
+                nPlanetsAndSun.UpdateAll();
+                simulationTime += simulationTimeInterval;
+            }
+            else
             {
                 timer.Stop();
-                return;
             }
-
-            // Third: Call UpdateAll
-            nPlanetsAndSun.UpdateAll();
         }
 
         /// <summary>
